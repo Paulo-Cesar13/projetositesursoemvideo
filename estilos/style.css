@@ -4,12 +4,12 @@
 }
 
 body {
-    background-color: blueviolet;
+    background-color: black;
 }
 
 main {
     background-color: white;
-    width: 500px;
+    width: 5px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(0, 0, 0.473);
